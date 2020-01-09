@@ -6,9 +6,14 @@ public class Factorial {
         Scanner xe = new Scanner(System.in);
         System.out.println("give any number ");
         a = xe.nextByte();
-        for (i =(byte)(a-1) ; i>0; i--) {
-            a *= i;
+        if (a > 0) {
+            for (i = (byte) (a - 1); i > 0; i--) {
+                a *= i;
+            }
+            System.out.println(a);
         }
-        System.out.println(a);
+        else {
+            System.out.println("rerun the program and enter a psitive number!");
+        }
     }
 }
