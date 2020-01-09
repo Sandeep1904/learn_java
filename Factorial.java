@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class Factorial {
     public static void main(String[] args) {
         byte a, i;
-
         Scanner xe = new Scanner(System.in);
         System.out.println("give any number ");
         a = xe.nextByte();
