@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71c805fd-e3c1-46e1-a516-aa893a1b6a83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
-    </list>
+    <list default="true" id="71c805fd-e3c1-46e1-a516-aa893a1b6a83" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,5 +45,22 @@
       <updated>1578551520377</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579083795756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579083795756" />
   </component>
 </project>
