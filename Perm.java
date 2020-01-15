@@ -2,7 +2,7 @@ import java.util.*;
 
 class Perm {
     public static void main(String[] args) {
-        System.out.println("enter the number of rows: ");
+        System.out.println("enter any number: ");
         Scanner xe = new Scanner(System.in);
         long n = xe.nextInt();
         xe.close();
