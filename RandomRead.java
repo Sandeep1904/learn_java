@@ -9,9 +9,9 @@ class RandomRead {
             int n = random.nextInt();
             int m = random.nextInt();
             int a = n>m ? m:n;
-            System.out.println(n);
-            System.out.println(m);
-            System.out.println(a);
+            System.out.println("first random number is "+ n);
+            System.out.println("second random number is "+m);
+            System.out.println("the minimum of the two numbers is " +a);
         }
 
 
