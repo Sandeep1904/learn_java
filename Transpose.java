@@ -15,7 +15,7 @@ public class Transpose {
         display(transpose);
     }
     public static void display(int[][] matrix) {
-        System.out.println("The matrix is: ");
+        System.out.println("The transpose of the above matrix is: ");
         for(int[] row : matrix) {
             for (int column : row) {
                 System.out.print(column + "    ");
