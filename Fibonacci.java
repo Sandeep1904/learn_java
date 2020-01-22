@@ -1,6 +1,13 @@
+import java.util.*;
+
 public class Fibonacci {
+
+
     public static void main(String[] args) {
-        int n = 10, t1 = 0, t2 = 1;
+        int n , t1 = 0, t2 = 1;
+        Scanner xe = new Scanner(System.in);
+        System.out.println("enter the number of terms of the sequence to be printed: ");
+        n = xe.nextInt();
         System.out.print("First " + n + " terms: ");
         for (int i = 1; i <= n; ++i)
         {
