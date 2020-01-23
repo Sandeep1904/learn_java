@@ -3,7 +3,7 @@ class RefThis {
 
     RefThis(int instVar){
         this.instVar = instVar;
-        System.out.println("this is a reference = "+ this);
+        System.out.println("this reference = "+ this);
     }
 
     public static void main(String[] args) {
