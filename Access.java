@@ -24,4 +24,3 @@ class Data {
     }
 }
 
-//this an example of protected modifiers
