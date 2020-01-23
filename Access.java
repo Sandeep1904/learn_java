@@ -1,5 +1,5 @@
-package defaultPackage;
-class Access {
+//package defaultPackage;
+public class Access {
     public static void message(){
         System.out.println("This is a message");
     }
