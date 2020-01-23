@@ -19,7 +19,7 @@ class Data {
         return this.name;
     }
     public void setName(String name1) {
-        name = name1;
+        this.name = name1;
 
     }
 }
