@@ -1,10 +1,12 @@
 class Cars {
-    public Cars(){
+    public Cars() {
         System.out.println("Class cars");
     }
-    public void vehicalType(){
+
+    public void vehicalType() {
         System.out.println("Vehical type: car");
     }
+}
     class Maruti extends Cars{
         public Maruti(){
             System.out.println("class Maruti");
@@ -33,4 +35,3 @@ class Cars {
             obj.speed();
         }
     }
-}
